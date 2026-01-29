@@ -1,7 +1,7 @@
 # FNP-Sales-Analysis
 ## Executive Summary
-
 Ferns and Petals (FNP) – Sales Analysis Dashboard (2023)
+![alt_text](https://github.com/MishuTI/FNP-Sales-Analysis/blob/main/dashboard.PNG)
 
 This project analyzes sales data from Ferns and Petals (FNP) to uncover insights into revenue performance, customer behavior, product trends, and operational efficiency across multiple gifting occasions in 2023. The interactive dashboard enables stakeholders to monitor key KPIs and make data-driven decisions to improve sales strategy and customer satisfaction.
 
@@ -19,26 +19,26 @@ These metrics indicate a healthy order volume with a moderate delivery cycle, hi
 
 ## Revenue & Sales Performance Insights
 
-**Occasion-Based Revenue:**
+### Occasion-Based Revenue:
 Revenue varies significantly by occasion.
 
 - Anniversaries, Raksha Bandhan, and Holi generate the highest revenue.
 
 - Diwali and Valentine’s Day show comparatively lower revenue, indicating scope for targeted promotional campaigns.
 
-**Monthly Revenue Trend:**
+### Monthly Revenue Trend:
 Sales demonstrate seasonality, with notable peaks during February and August, aligning with Valentine’s Day and Raksha Bandhan.
 Lower sales in mid-year months suggest opportunities for off-season marketing initiatives.
 
 ## Product Performance Insights
 
-**Top Categories by Sales:**
+### Top Categories by Sales:
 
 - Colors and Soft Toys are the highest-selling categories.
 
 - Sweets and Cakes also contribute strongly to overall revenue.
 
-**Top 5 Products by Revenue:**
+### Top 5 Products by Revenue:
 
 - Magnam Set, Quila Gift, and Dolores Gift are the leading revenue contributors.
 
